@@ -1,2 +1,3 @@
 # College-python-programs
-This respo contains all the pyhton programs that are required for the college use in the lab
+This repositery contains some of the programes that are being donne in the college for the practice purpose
+
